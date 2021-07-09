@@ -1,7 +1,7 @@
 Hi, I’m @nykolai-d. I am a humanist gone bad. When I was younger, I studied and exercised History and Languages (Spanish, French, English). 
 Now I am studying an undergraduate program in Mathematics. I am currently in seventh semester. 
 I am learning data science so to migrate my line of work in that direction.
-I’m fluent in Python, a little less so in R (still learning) and Java, and am deeply interested in Machine Learning and Statistics. Also, I'm delving into many pure Maths concepts which are beautiful, but still don't know exactly how to apply them anywhere (the complex plain and the Riemann Sphere, for example).
+I’m fluent in Python, a little less so in R (still learning) and Java, and am deeply interested in Machine Learning and Statistics. Also, I'm delving into many pure Maths concepts which are beautiful, but still don't know exactly how to apply them anywhere (the complex plain and the Riemann Sphere, for example). Here, you will find works I have developed in Python, Java and LaTeX, the latter focusing on some advances mathematics topícs.
 I’m looking to collaborate on anything that could help me get better in data science.
 Feel free to reach me anytime through my email: ndiazdurana@gmail.com
 
