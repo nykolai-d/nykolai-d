@@ -1,8 +1,8 @@
-Hi, I’m @nykolai-d. I am a humanist gone bad. When I was younger, I studied and exercised History and Languages (Spanish, French, English). 
-Now I am studying an undergraduate program in Mathematics, currently in seventh semester. 
-I am learning data science so to migrate my line of work in that direction.
-I’m fluent in Python, a little less so in R and Java (still learning), and am deeply interested in Machine Learning and Statistics. Also, I'm delving into many pure Maths concepts which are beautiful, but still don't know exactly how to apply them (the Riemann Sphere, for example). Here, you will find works I have developed in Python, Java and LaTeX, the latter focusing on some advanced math topícs.
-I’m looking to collaborate on anything that could help me get better in data science.
+Hi, I’m Nicolas Diaz-Durana. I am a Mathematician with studies in Psychology, History and Music. I’m fluent in Python, and am deeply interested in Natural Language Processing and Machine Learning, as well as Statistics and data-driven analysis. 
+Some Python libraries that I am comforatble with are NLTK, TextBlob, Pandas, Numpy, Scipy, IPython, Matplotlib, Sympy, Scikit-Learn and TensorFlow. 
+Here, you will find works I have developed in Python, Java and LaTeX, the latter focusing on some advanced math topícs. I am into any ideas or projects that can potentially integrate seemingly distant domains of knowledge. I speak, read and write in English, Spanish and French. I am native Spanish speaker, but mostly think in English.
+
+I’m looking to collaborate on anything that tackles with real-life date-driven problems, especially -but not limited to- NLP.
 Feel free to reach me anytime through my email: ndiazdurana@gmail.com
 
 <!---
