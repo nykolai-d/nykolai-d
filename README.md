@@ -1,4 +1,4 @@
-Hi, I’m Nicolas Diaz-Durana. I am a Mathematician with studies and extensive professional experience in the Social Sciences. I’m fluent in Python, and am deeply interested in Natural Language Processing and Machine Learning, as well as Statistics and data-driven analysis.
+Hi, I’m Nicolas Diaz-Durana. I am a Mathematician with studies and extensive professional experience in linguistics. I’m fluent in Python, and am deeply interested in Natural Language Processing and Machine Learning, as well as Statistics and data-driven analysis.
 
 Some Python libraries that I feel confortable with are NLTK, TensorFlow, Pandas, Numpy, Scipy, Matplotlib, Sympy, Scikit-Learn and TextBlob. I know my way around R, Java and SQL.
 
