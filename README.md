@@ -1,6 +1,6 @@
 Hi, I’m Nicolas Diaz-Durana. I am a mathematician with a Master's degree in linguistics. I’m fluent in Python, and deeply interested in Natural Language Processing and Machine Learning, as well as Statistics and data-driven analysis.
 
-Some Python libraries that I feel confortable with are NLTK, TensorFlow, Pandas, Numpy, Scipy, Matplotlib, Sympy, Scikit-Learn and TextBlob. I know my way around R, Java and SQL.
+Some Python libraries that I feel confortable with are NLTK, TensorFlow, Pandas, Numpy, Scipy, Matplotlib, Sympy and Scikit-Learn TextBlob. I know my way around R, Java and SQL.
 
 Here, you will find works that I have developed in Python, R and LaTeX, the latter focusing on some advanced math and physics topics. I'm into projects that can potentially integrate diverse domains of knowledge. I speak, read and write in English, Spanish and French.
 
